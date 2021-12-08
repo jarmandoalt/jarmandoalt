@@ -2,7 +2,7 @@
    “role” : “Fullstack Dev”,
    “data” : 
      { 
-      "Resume"   : "https://veromoreno.github.io/",
+      "Resume"   : "https://jarmandoalt.github.io/",
       "IG"       : "https://www.instagram.com/jarmandoalt"
      }
  }
