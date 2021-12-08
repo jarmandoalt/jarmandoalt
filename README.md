@@ -1,10 +1,9 @@
- { “name” : “Verónica Moreno Flores”,
+ { “name” : “José Armando Altamira Martínez”,
    “role” : “Fullstack Dev”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
       "Resume"   : "https://veromoreno.github.io/",
-      "IG"       : "https://www.instagram.com/veritechie"
+      "IG"       : "https://www.instagram.com/jarmandoalt"
      }
  }
 
